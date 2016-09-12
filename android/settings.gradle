@@ -1,0 +1,3 @@
+rootProject.name = 'YeeTestGit'
+
+include ':app'
